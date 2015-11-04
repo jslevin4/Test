@@ -5,3 +5,6 @@ Solution1.v12.suo
 # ignore bin and obj directories for now
 HelloWorldApp/obj
 HelloWorldApp/bin
+
+# HelloWorld.csproj user options file
+HelloWorldApp/HelloWorldApp.csproj.user
