@@ -8,3 +8,6 @@ HelloWorldApp/bin
 
 # HelloWorld.csproj user options file
 HelloWorldApp/HelloWorldApp.csproj.user
+
+# New visual studio settings directory
+.vs/
