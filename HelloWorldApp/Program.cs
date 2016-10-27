@@ -6,7 +6,8 @@ namespace HelloWorldApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World Test");
+            // Print a happy message to the lonely developer.
+            Console.WriteLine("Hey First Sargent, good morning!");
         }
         
     }
