@@ -1,4 +1,4 @@
 This is a file containing some test
 Here is a second line
 Here is a third line
-Quatro line
+Quatro line.  In German this would be vier line?
